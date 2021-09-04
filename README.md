@@ -1,8 +1,6 @@
 # E-Healthcare-Management-System
 Technology used:
 ![Screenshot (588)](https://user-images.githubusercontent.com/73706509/132104947-90737282-2c33-49fe-b40d-7c2156159f48.png)
-![Screenshot (589)](https://user-images.githubusercontent.com/73706509/132104950-7aea7041-836d-454b-887e-ef840cb5fe38.png)
-![Screenshot (591)](https://user-images.githubusercontent.com/73706509/132104954-af15283b-7f81-4bcc-8502-cdd21de0b982.png)
 ![Screenshot (592)](https://user-images.githubusercontent.com/73706509/132104956-e70695be-e1fc-43d9-8f8a-501c388eb334.png)
 ![Screenshot (593)](https://user-images.githubusercontent.com/73706509/132104959-07d0149d-eda6-4b7d-bacd-9505a458e758.png)
 ![Screenshot (596)](https://user-images.githubusercontent.com/73706509/132104972-0b104e66-70a2-4391-8065-05754ec7465f.png)
