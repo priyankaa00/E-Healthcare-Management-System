@@ -1,9 +1,6 @@
 # E-Healthcare-Management-System
-Technology used:
-![Screenshot (588)](https://user-images.githubusercontent.com/73706509/132104947-90737282-2c33-49fe-b40d-7c2156159f48.png)
-![Screenshot (592)](https://user-images.githubusercontent.com/73706509/132104956-e70695be-e1fc-43d9-8f8a-501c388eb334.png)
-![Screenshot (593)](https://user-images.githubusercontent.com/73706509/132104959-07d0149d-eda6-4b7d-bacd-9505a458e758.png)
-![Screenshot (596)](https://user-images.githubusercontent.com/73706509/132104972-0b104e66-70a2-4391-8065-05754ec7465f.png)
-![Screenshot (598)](https://user-images.githubusercontent.com/73706509/132104977-a819e55b-a220-4dc5-9b50-9246300f95bc.png)
-![Screenshot (600)](https://user-images.githubusercontent.com/73706509/132104979-2586588c-00ae-4505-bf09-65bfdcbc6421.png)
-![Screenshot (601)](https://user-images.githubusercontent.com/73706509/132104982-4cb3a1e3-6e6a-4c0f-a912-3ed5005fcae3.png)
+This web application will help student and Employee to book appointment online and view 
+their prescription without going to hospital whereas it will also help doctor to view their 
+schedule and also doctor can prescribe patient
+# Technology used
+Language Used - Java  IDE Used - Netbeans
